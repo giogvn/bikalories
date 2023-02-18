@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+	<metadata><time>2021-02-14T00:23:18</time></metadata>
+	<trk>
+		<name>2021-02-14T00:23:18</name>
+		<type>ride</type>
+		<trkseg>
+			<trkpt lat="-23.5553536" lon="-46.66354176"><ele>971.35</ele><time>2021-02-14T00:23:19</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5553536" lon="-46.66354176"><ele>971.35</ele><time>2021-02-14T00:23:23</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55536695" lon="-46.66353032"><ele>971.35</ele><time>2021-02-14T00:23:24</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55539556" lon="-46.66350744"><ele>971.35</ele><time>2021-02-14T00:23:25</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5554337" lon="-46.66347311"><ele>971.35</ele><time>2021-02-14T00:23:26</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55547566" lon="-46.66343497"><ele>971.35</ele><time>2021-02-14T00:23:27</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55551571" lon="-46.66339683"><ele>971.35</ele><time>2021-02-14T00:23:28</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55554622" lon="-46.66336632"><ele>971.35</ele><time>2021-02-14T00:23:29</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5555691" lon="-46.66334344"><ele>971.35</ele><time>2021-02-14T00:23:30</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55558245" lon="-46.66332056"><ele>971.35</ele><time>2021-02-14T00:23:31</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55558245" lon="-46.66329768"><ele>971.35</ele><time>2021-02-14T00:23:32</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55558245" lon="-46.66327861"><ele>971.35</ele><time>2021-02-14T00:23:33</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55558626" lon="-46.66326336"><ele>971.35</ele><time>2021-02-14T00:23:34</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55559198" lon="-46.66324811"><ele>971.35</ele><time>2021-02-14T00:23:35</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5555977" lon="-46.66324049"><ele>971.35</ele><time>2021-02-14T00:23:36</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55560342" lon="-46.66323287"><ele>971.35</ele><time>2021-02-14T00:23:37</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55561295" lon="-46.66322525"><ele>971.35</ele><time>2021-02-14T00:23:38</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55562057" lon="-46.66321763"><ele>971.35</ele><time>2021-02-14T00:23:39</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5556301" lon="-46.66321001"><ele>971.35</ele><time>2021-02-14T00:23:40</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55563963" lon="-46.66320239"><ele>971.35</ele><time>2021-02-14T00:23:41</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55564535" lon="-46.66319477"><ele>971.35</ele><time>2021-02-14T00:23:42</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55565297" lon="-46.66318333"><ele>971.35</ele><time>2021-02-14T00:23:43</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55565297" lon="-46.66316808"><ele>971.35</ele><time>2021-02-14T00:23:44</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55564344" lon="-46.6631452"><ele>971.35</ele><time>2021-02-14T00:23:45</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55563963" lon="-46.66312995"><ele>971.35</ele><time>2021-02-14T00:23:46</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55563391" lon="-46.66310707"><ele>971.35</ele><time>2021-02-14T00:23:47</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5556301" lon="-46.663088"><ele>971.35</ele><time>2021-02-14T00:23:48</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55562248" lon="-46.66306893"><ele>971.35</ele><time>2021-02-14T00:23:49</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55561104" lon="-46.66305749"><ele>971.35</ele><time>2021-02-14T00:23:50</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55559388" lon="-46.66304987"><ele>971.35</ele><time>2021-02-14T00:23:51</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55558244" lon="-46.66303462"><ele>971.35</ele><time>2021-02-14T00:23:52</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55557291" lon="-46.663027"><ele>971.35</ele><time>2021-02-14T00:23:53</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55556338" lon="-46.66302319"><ele>971.35</ele><time>2021-02-14T00:23:54</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55555766" lon="-46.66302319"><ele>971.35</ele><time>2021-02-14T00:23:55</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55555386" lon="-46.66301939"><ele>971.35</ele><time>2021-02-14T00:23:57</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55555575" lon="-46.66301938"><ele>971.35</ele><time>2021-02-14T00:23:58</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55555575" lon="-46.66301938"><ele>971.35</ele><time>2021-02-14T00:23:59</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55555385" lon="-46.66301557"><ele>971.35</ele><time>2021-02-14T00:24:00</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55555004" lon="-46.66302319"><ele>971.35</ele><time>2021-02-14T00:24:01</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55554242" lon="-46.66303081"><ele>971.35</ele><time>2021-02-14T00:24:02</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55553289" lon="-46.66304606"><ele>971.35</ele><time>2021-02-14T00:24:03</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55552145" lon="-46.66305368"><ele>971.35</ele><time>2021-02-14T00:24:04</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55551001" lon="-46.66305749"><ele>971.35</ele><time>2021-02-14T00:24:05</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55549857" lon="-46.6630613"><ele>971.35</ele><time>2021-02-14T00:24:06</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55549285" lon="-46.66306511"><ele>971.35</ele><time>2021-02-14T00:24:07</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55549666" lon="-46.66306892"><ele>971.35</ele><time>2021-02-14T00:24:08</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55550428" lon="-46.66307654"><ele>971.35</ele><time>2021-02-14T00:24:09</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55551763" lon="-46.66308416"><ele>971.35</ele><time>2021-02-14T00:24:10</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55553288" lon="-46.6630956"><ele>971.35</ele><time>2021-02-14T00:24:11</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55555004" lon="-46.66311085"><ele>971.35</ele><time>2021-02-14T00:24:12</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55556529" lon="-46.6631261"><ele>971.35</ele><time>2021-02-14T00:24:13</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55558054" lon="-46.66314135"><ele>971.35</ele><time>2021-02-14T00:24:14</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55559579" lon="-46.66316042"><ele>971.35</ele><time>2021-02-14T00:24:15</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55561295" lon="-46.6631833"><ele>971.35</ele><time>2021-02-14T00:24:16</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5556282" lon="-46.66320237"><ele>971.35</ele><time>2021-02-14T00:24:17</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55564727" lon="-46.66322144"><ele>971.35</ele><time>2021-02-14T00:24:18</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55566825" lon="-46.66324051"><ele>971.35</ele><time>2021-02-14T00:24:19</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55569113" lon="-46.66325958"><ele>971.35</ele><time>2021-02-14T00:24:20</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55571783" lon="-46.66327865"><ele>971.35</ele><time>2021-02-14T00:24:21</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55574262" lon="-46.66330535"><ele>971.35</ele><time>2021-02-14T00:24:22</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55576741" lon="-46.66333205"><ele>971.35</ele><time>2021-02-14T00:24:23</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55579411" lon="-46.66336256"><ele>971.35</ele><time>2021-02-14T00:24:24</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5558189" lon="-46.66339689"><ele>971.35</ele><time>2021-02-14T00:24:25</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55584178" lon="-46.66343503"><ele>971.35</ele><time>2021-02-14T00:24:26</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55586466" lon="-46.66347317"><ele>971.35</ele><time>2021-02-14T00:24:27</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55588754" lon="-46.66351131"><ele>971.35</ele><time>2021-02-14T00:24:28</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55590852" lon="-46.66354945"><ele>971.35</ele><time>2021-02-14T00:24:29</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55593713" lon="-46.66357996"><ele>971.35</ele><time>2021-02-14T00:24:30</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55596574" lon="-46.66361047"><ele>971.35</ele><time>2021-02-14T00:24:31</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55599625" lon="-46.66363717"><ele>971.35</ele><time>2021-02-14T00:24:32</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55602486" lon="-46.66366768"><ele>971.35</ele><time>2021-02-14T00:24:33</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55605156" lon="-46.66369819"><ele>971.35</ele><time>2021-02-14T00:24:34</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55607826" lon="-46.66373252"><ele>971.35</ele><time>2021-02-14T00:24:35</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55610687" lon="-46.66376303"><ele>971.35</ele><time>2021-02-14T00:24:36</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55613548" lon="-46.66379736"><ele>971.35</ele><time>2021-02-14T00:24:37</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.5561679" lon="-46.66382787"><ele>971.35</ele><time>2021-02-14T00:24:38</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55620032" lon="-46.6638622"><ele>971.35</ele><time>2021-02-14T00:24:39</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55623274" lon="-46.6638889"><ele>971.35</ele><time>2021-02-14T00:24:40</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55626516" lon="-46.6639156"><ele>971.35</ele><time>2021-02-14T00:24:41</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+			<trkpt lat="-23.55629567" lon="-46.6639423"><ele>971.35</ele><time>2021-02-14T00:24:42</time><extensions><gpxdata:cadence>1.0</gpxdata:cadence></extensions></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
