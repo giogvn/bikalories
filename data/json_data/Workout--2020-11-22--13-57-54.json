@@ -1,1 +1,14 @@
-{}
+{
+    "route": [],
+    "general_info": {
+        "type": 8,
+        "startTime": "2020-11-22 13:57:54 -0300",
+        "sportTime(s)": 10265,
+        "maxPace(/meter)": 1.6593585,
+        "minPace(/meter)": 0.71264064,
+        "distance(m)": 164,
+        "avgPace(/meter)": 62.271,
+        "calories(kcal)": 6,
+        "json_name": "Workout--2020-11-22--13-57-54.json"
+    }
+}

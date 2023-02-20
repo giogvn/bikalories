@@ -1,1 +1,14 @@
-{}
+{
+    "route": [],
+    "general_info": {
+        "type": 16,
+        "startTime": "2021-01-07 08:32:36 -0300",
+        "sportTime(s)": 3921,
+        "maxPace(/meter)": 0,
+        "minPace(/meter)": 1.8000001,
+        "distance(m)": 0,
+        "avgPace(/meter)": 0,
+        "calories(kcal)": 240,
+        "json_name": "Workout--2021-01-07--08-32-36.json"
+    }
+}

@@ -1,1 +1,2583 @@
-{"0":{"timestamp":1605547998000,"latitude":-23.55788544,"longitude":-46.74725888,"elevation":715.3},"1":{"timestamp":1605548001000,"latitude":-23.55788544,"longitude":-46.74725888,"elevation":715.3},"2":{"timestamp":1605548002000,"latitude":-23.55790642,"longitude":-46.74727032,"elevation":715.3},"3":{"timestamp":1605548003000,"latitude":-23.55791786,"longitude":-46.74727413,"elevation":715.3},"4":{"timestamp":1605548004000,"latitude":-23.55791024,"longitude":-46.74727032,"elevation":715.3},"5":{"timestamp":1605548005000,"latitude":-23.55788545,"longitude":-46.7472627,"elevation":715.3},"6":{"timestamp":1605548006000,"latitude":-23.55785494,"longitude":-46.74725126,"elevation":715.3},"7":{"timestamp":1605548007000,"latitude":-23.5578435,"longitude":-46.74724745,"elevation":715.3},"8":{"timestamp":1605548008000,"latitude":-23.55783015,"longitude":-46.74724364,"elevation":715.3},"9":{"timestamp":1605548009000,"latitude":-23.5578149,"longitude":-46.74723602,"elevation":715.3},"10":{"timestamp":1605548010000,"latitude":-23.55780537,"longitude":-46.74723221,"elevation":715.3},"11":{"timestamp":1605548011000,"latitude":-23.55779775,"longitude":-46.74723221,"elevation":715.3},"12":{"timestamp":1605548012000,"latitude":-23.55778059,"longitude":-46.74722077,"elevation":715.3},"13":{"timestamp":1605548013000,"latitude":-23.5577736,"longitude":-46.74721823,"elevation":715.3},"14":{"timestamp":1605548015000,"latitude":-23.55775962,"longitude":-46.74721315,"elevation":715.3},"15":{"timestamp":1605548016000,"latitude":-23.55774817,"longitude":-46.74720553,"elevation":715.3},"16":{"timestamp":1605548017000,"latitude":-23.55775389,"longitude":-46.74720934,"elevation":715.3},"17":{"timestamp":1605548018000,"latitude":-23.55775199,"longitude":-46.74720934,"elevation":715.3},"18":{"timestamp":1605548019000,"latitude":-23.55775389,"longitude":-46.74720934,"elevation":715.3},"19":{"timestamp":1605548020000,"latitude":-23.55774627,"longitude":-46.74720553,"elevation":715.3},"20":{"timestamp":1605548021000,"latitude":-23.55774246,"longitude":-46.74720172,"elevation":715.3},"21":{"timestamp":1605548022000,"latitude":-23.55774056,"longitude":-46.74720172,"elevation":715.3},"22":{"timestamp":1605548023000,"latitude":-23.55774246,"longitude":-46.74720172,"elevation":715.3},"23":{"timestamp":1605548025000,"latitude":-23.55774818,"longitude":-46.74720172,"elevation":715.3},"24":{"timestamp":1605548026000,"latitude":-23.55775009,"longitude":-46.74720299,"elevation":715.3},"25":{"timestamp":1605548027000,"latitude":-23.557752,"longitude":-46.74720426,"elevation":715.3},"26":{"timestamp":1605548028000,"latitude":-23.55775391,"longitude":-46.74720553,"elevation":715.3},"27":{"timestamp":1605548029000,"latitude":-23.5577609,"longitude":-46.7472068,"elevation":715.3},"28":{"timestamp":1605548030000,"latitude":-23.5577679,"longitude":-46.74720807,"elevation":715.3},"29":{"timestamp":1605548031000,"latitude":-23.5577749,"longitude":-46.74720934,"elevation":715.3},"30":{"timestamp":1605548033000,"latitude":-23.55778442,"longitude":-46.74721316,"elevation":715.3},"31":{"timestamp":1605548034000,"latitude":-23.55777842,"longitude":-46.74721642,"elevation":715.3},"32":{"timestamp":1605548035000,"latitude":-23.55777243,"longitude":-46.74721969,"elevation":715.3},"33":{"timestamp":1605548040000,"latitude":-23.55774248,"longitude":-46.74723604,"elevation":715.3},"34":{"timestamp":1605548041000,"latitude":-23.55775198,"longitude":-46.74722841,"elevation":715.3},"35":{"timestamp":1605548043000,"latitude":-23.55779776,"longitude":-46.74721697,"elevation":715.3},"36":{"timestamp":1605548044000,"latitude":-23.55779394,"longitude":-46.74721697,"elevation":715.3},"37":{"timestamp":1605548045000,"latitude":-23.55773863,"longitude":-46.74719409,"elevation":715.3},"38":{"timestamp":1605548046000,"latitude":-23.55769667,"longitude":-46.74716358,"elevation":715.3},"39":{"timestamp":1605548047000,"latitude":-23.55767188,"longitude":-46.74712544,"elevation":715.3},"40":{"timestamp":1605548048000,"latitude":-23.5576509,"longitude":-46.74709111,"elevation":715.3},"41":{"timestamp":1605548049000,"latitude":-23.55763755,"longitude":-46.74706823,"elevation":715.3},"42":{"timestamp":1605548050000,"latitude":-23.55762611,"longitude":-46.74704916,"elevation":715.3},"43":{"timestamp":1605548051000,"latitude":-23.55761467,"longitude":-46.74703391,"elevation":715.3},"44":{"timestamp":1605548052000,"latitude":-23.55760705,"longitude":-46.74702629,"elevation":715.3},"45":{"timestamp":1605548053000,"latitude":-23.55760515,"longitude":-46.7470301,"elevation":715.3},"46":{"timestamp":1605548054000,"latitude":-23.55760705,"longitude":-46.74704154,"elevation":715.3},"47":{"timestamp":1605548055000,"latitude":-23.55761277,"longitude":-46.74705298,"elevation":715.3},"48":{"timestamp":1605548056000,"latitude":-23.55762039,"longitude":-46.74706823,"elevation":715.3},"49":{"timestamp":1605548057000,"latitude":-23.5576242,"longitude":-46.74708348,"elevation":715.3},"50":{"timestamp":1605548058000,"latitude":-23.55762992,"longitude":-46.74709492,"elevation":715.3},"51":{"timestamp":1605548059000,"latitude":-23.55763564,"longitude":-46.74711017,"elevation":715.3},"52":{"timestamp":1605548060000,"latitude":-23.55764326,"longitude":-46.74712542,"elevation":715.3},"53":{"timestamp":1605548077000,"latitude":-23.55777297,"longitude":-46.74723235,"elevation":715.3},"54":{"timestamp":1605548090000,"latitude":-23.55817738,"longitude":-46.74802198,"elevation":715.3},"55":{"timestamp":1605548120000,"latitude":-23.5573517,"longitude":-46.74917777,"elevation":715.3},"56":{"timestamp":1605548125000,"latitude":-23.55744107,"longitude":-46.74898322,"elevation":715.3},"57":{"timestamp":1605548131000,"latitude":-23.5573825,"longitude":-46.74910132,"elevation":715.3},"58":{"timestamp":1605548133000,"latitude":-23.55736298,"longitude":-46.7491407,"elevation":715.3},"59":{"timestamp":1605548135000,"latitude":-23.55734346,"longitude":-46.74918008,"elevation":715.3},"60":{"timestamp":1605548137000,"latitude":-23.55732394,"longitude":-46.74921946,"elevation":715.3},"61":{"timestamp":1605548143000,"latitude":-23.55726538,"longitude":-46.7493376,"elevation":715.3},"62":{"timestamp":1605548149000,"latitude":-23.55720682,"longitude":-46.74945574,"elevation":715.3},"63":{"timestamp":1605548150000,"latitude":-23.55719706,"longitude":-46.74947543,"elevation":715.3},"64":{"timestamp":1605548151000,"latitude":-23.55719441,"longitude":-46.74949225,"elevation":715.3},"65":{"timestamp":1605548153000,"latitude":-23.55718939,"longitude":-46.74952621,"elevation":715.3},"66":{"timestamp":1605548155000,"latitude":-23.55718437,"longitude":-46.74956017,"elevation":715.3},"67":{"timestamp":1605548157000,"latitude":-23.55717935,"longitude":-46.74959413,"elevation":715.3},"68":{"timestamp":1605548163000,"latitude":-23.55716429,"longitude":-46.74969601,"elevation":715.3},"69":{"timestamp":1605548165000,"latitude":-23.55715927,"longitude":-46.74972997,"elevation":715.3},"70":{"timestamp":1605548169000,"latitude":-23.55714923,"longitude":-46.74979789,"elevation":715.3},"71":{"timestamp":1605548171000,"latitude":-23.55714421,"longitude":-46.74983185,"elevation":715.3},"72":{"timestamp":1605548173000,"latitude":-23.55713919,"longitude":-46.74986581,"elevation":715.3},"73":{"timestamp":1605548176000,"latitude":-23.55713166,"longitude":-46.74991675,"elevation":715.3},"74":{"timestamp":1605548179000,"latitude":-23.55712413,"longitude":-46.74996769,"elevation":715.3},"75":{"timestamp":1605548183000,"latitude":-23.55711409,"longitude":-46.75003561,"elevation":715.3},"76":{"timestamp":1605548185000,"latitude":-23.55710907,"longitude":-46.75006957,"elevation":715.3},"77":{"timestamp":1605548187000,"latitude":-23.55710405,"longitude":-46.75010353,"elevation":715.3},"78":{"timestamp":1605548189000,"latitude":-23.55709903,"longitude":-46.75013749,"elevation":715.3},"79":{"timestamp":1605548192000,"latitude":-23.5570915,"longitude":-46.75018843,"elevation":715.3},"80":{"timestamp":1605548194000,"latitude":-23.55708648,"longitude":-46.75022239,"elevation":715.3},"81":{"timestamp":1605548196000,"latitude":-23.55708146,"longitude":-46.75025635,"elevation":715.3},"82":{"timestamp":1605548198000,"latitude":-23.55707644,"longitude":-46.75029031,"elevation":715.3},"83":{"timestamp":1605548200000,"latitude":-23.55707142,"longitude":-46.75032427,"elevation":715.3},"84":{"timestamp":1605548202000,"latitude":-23.5570664,"longitude":-46.75035823,"elevation":715.3},"85":{"timestamp":1605548205000,"latitude":-23.55705887,"longitude":-46.75040917,"elevation":715.3},"86":{"timestamp":1605548206000,"latitude":-23.55705636,"longitude":-46.75042615,"elevation":715.3},"87":{"timestamp":1605548208000,"latitude":-23.55705134,"longitude":-46.75046011,"elevation":715.3},"88":{"timestamp":1605548210000,"latitude":-23.55704632,"longitude":-46.75049407,"elevation":715.3},"89":{"timestamp":1605548212000,"latitude":-23.55704778,"longitude":-46.75053499,"elevation":715.3},"90":{"timestamp":1605548214000,"latitude":-23.55704932,"longitude":-46.75057619,"elevation":715.3},"91":{"timestamp":1605548216000,"latitude":-23.55705086,"longitude":-46.75061739,"elevation":715.3},"92":{"timestamp":1605548219000,"latitude":-23.55705317,"longitude":-46.75067919,"elevation":715.3},"93":{"timestamp":1605548223000,"latitude":-23.55705625,"longitude":-46.75076159,"elevation":715.3},"94":{"timestamp":1605548229000,"latitude":-23.55706087,"longitude":-46.75088519,"elevation":715.3},"95":{"timestamp":1605548231000,"latitude":-23.55706241,"longitude":-46.75092639,"elevation":715.3},"96":{"timestamp":1605548233000,"latitude":-23.55706395,"longitude":-46.75096759,"elevation":715.3},"97":{"timestamp":1605548235000,"latitude":-23.55706549,"longitude":-46.75100879,"elevation":715.3},"98":{"timestamp":1605548237000,"latitude":-23.55706703,"longitude":-46.75104999,"elevation":715.3},"99":{"timestamp":1605548239000,"latitude":-23.55706857,"longitude":-46.75109119,"elevation":715.3},"100":{"timestamp":1605548240000,"latitude":-23.55706934,"longitude":-46.75111179,"elevation":715.3},"101":{"timestamp":1605548241000,"latitude":-23.55706442,"longitude":-46.75113708,"elevation":715.3},"102":{"timestamp":1605548243000,"latitude":-23.55705502,"longitude":-46.7511877,"elevation":715.3},"103":{"timestamp":1605548245000,"latitude":-23.55704562,"longitude":-46.75123832,"elevation":715.3},"104":{"timestamp":1605548247000,"latitude":-23.55703622,"longitude":-46.75128894,"elevation":715.3},"105":{"timestamp":1605548249000,"latitude":-23.55702682,"longitude":-46.75133956,"elevation":715.3},"106":{"timestamp":1605548251000,"latitude":-23.55701742,"longitude":-46.75139018,"elevation":715.3},"107":{"timestamp":1605548257000,"latitude":-23.55698922,"longitude":-46.75154204,"elevation":715.3},"108":{"timestamp":1605548259000,"latitude":-23.55697982,"longitude":-46.75159266,"elevation":715.3},"109":{"timestamp":1605548261000,"latitude":-23.55697042,"longitude":-46.75164328,"elevation":715.3},"110":{"timestamp":1605548263000,"latitude":-23.55696102,"longitude":-46.7516939,"elevation":715.3},"111":{"timestamp":1605548265000,"latitude":-23.55695162,"longitude":-46.75174452,"elevation":715.3},"112":{"timestamp":1605548270000,"latitude":-23.55692812,"longitude":-46.75187107,"elevation":715.3},"113":{"timestamp":1605548271000,"latitude":-23.55692805,"longitude":-46.75189315,"elevation":715.3},"114":{"timestamp":1605548273000,"latitude":-23.55692819,"longitude":-46.75193767,"elevation":715.3},"115":{"timestamp":1605548276000,"latitude":-23.5569284,"longitude":-46.75200445,"elevation":715.3},"116":{"timestamp":1605548277000,"latitude":-23.55692847,"longitude":-46.75202671,"elevation":715.3},"117":{"timestamp":1605548279000,"latitude":-23.55692861,"longitude":-46.75207123,"elevation":715.3},"118":{"timestamp":1605548284000,"latitude":-23.55692896,"longitude":-46.75218253,"elevation":715.3},"119":{"timestamp":1605548288000,"latitude":-23.55692924,"longitude":-46.75227157,"elevation":715.3},"120":{"timestamp":1605548294000,"latitude":-23.55692966,"longitude":-46.75240513,"elevation":715.3},"121":{"timestamp":1605548297000,"latitude":-23.55692987,"longitude":-46.75247191,"elevation":715.3},"122":{"timestamp":1605548300000,"latitude":-23.55693008,"longitude":-46.75253869,"elevation":715.3},"123":{"timestamp":1605548301000,"latitude":-23.55692823,"longitude":-46.75256072,"elevation":715.3},"124":{"timestamp":1605548305000,"latitude":-23.55692163,"longitude":-46.75264976,"elevation":715.3},"125":{"timestamp":1605548311000,"latitude":-23.55691173,"longitude":-46.75278332,"elevation":715.3},"126":{"timestamp":1605548315000,"latitude":-23.55690513,"longitude":-46.75287236,"elevation":715.3},"127":{"timestamp":1605548317000,"latitude":-23.55690183,"longitude":-46.75291688,"elevation":715.3},"128":{"timestamp":1605548319000,"latitude":-23.55689853,"longitude":-46.7529614,"elevation":715.3},"129":{"timestamp":1605548321000,"latitude":-23.55689523,"longitude":-46.75300592,"elevation":715.3},"130":{"timestamp":1605548327000,"latitude":-23.55688533,"longitude":-46.75313948,"elevation":715.3},"131":{"timestamp":1605548330000,"latitude":-23.55688038,"longitude":-46.75320626,"elevation":715.3},"132":{"timestamp":1605548333000,"latitude":-23.55688422,"longitude":-46.75323846,"elevation":715.3},"133":{"timestamp":1605548339000,"latitude":-23.55689208,"longitude":-46.75330332,"elevation":715.3},"134":{"timestamp":1605548343000,"latitude":-23.55689732,"longitude":-46.75334656,"elevation":715.3},"135":{"timestamp":1605548348000,"latitude":-23.55690387,"longitude":-46.75340061,"elevation":715.3},"136":{"timestamp":1605548354000,"latitude":-23.55691173,"longitude":-46.75346547,"elevation":715.3},"137":{"timestamp":1605548360000,"latitude":-23.55691959,"longitude":-46.75353033,"elevation":715.3},"138":{"timestamp":1605548366000,"latitude":-23.55692745,"longitude":-46.75359519,"elevation":715.3},"139":{"timestamp":1605548372000,"latitude":-23.55693531,"longitude":-46.75366005,"elevation":715.3},"140":{"timestamp":1605548374000,"latitude":-23.55693793,"longitude":-46.75368167,"elevation":715.3},"141":{"timestamp":1605548378000,"latitude":-23.55694317,"longitude":-46.75372491,"elevation":715.3},"142":{"timestamp":1605548384000,"latitude":-23.55695103,"longitude":-46.75378977,"elevation":715.3},"143":{"timestamp":1605548386000,"latitude":-23.55695365,"longitude":-46.75381139,"elevation":715.3},"144":{"timestamp":1605548389000,"latitude":-23.55695758,"longitude":-46.75384382,"elevation":715.3},"145":{"timestamp":1605548390000,"latitude":-23.55695889,"longitude":-46.75385463,"elevation":715.3},"146":{"timestamp":1605548393000,"latitude":-23.55698579,"longitude":-46.75395715,"elevation":715.3},"147":{"timestamp":1605548397000,"latitude":-23.55702219,"longitude":-46.75409399,"elevation":715.3},"148":{"timestamp":1605548399000,"latitude":-23.55704039,"longitude":-46.75416241,"elevation":715.3},"149":{"timestamp":1605548401000,"latitude":-23.55705859,"longitude":-46.75423083,"elevation":715.3},"150":{"timestamp":1605548403000,"latitude":-23.55707679,"longitude":-46.75429925,"elevation":715.3},"151":{"timestamp":1605548405000,"latitude":-23.55709499,"longitude":-46.75436767,"elevation":715.3},"152":{"timestamp":1605548408000,"latitude":-23.55712229,"longitude":-46.7544703,"elevation":715.3},"153":{"timestamp":1605548412000,"latitude":-23.55715869,"longitude":-46.75460714,"elevation":715.3},"154":{"timestamp":1605548414000,"latitude":-23.55717689,"longitude":-46.75467556,"elevation":715.3},"155":{"timestamp":1605548416000,"latitude":-23.55719509,"longitude":-46.75474398,"elevation":715.3},"156":{"timestamp":1605548420000,"latitude":-23.55723149,"longitude":-46.75488082,"elevation":715.3},"157":{"timestamp":1605548424000,"latitude":-23.55728364,"longitude":-46.75502463,"elevation":715.3},"158":{"timestamp":1605548426000,"latitude":-23.55730984,"longitude":-46.75509661,"elevation":715.3},"159":{"timestamp":1605548430000,"latitude":-23.55736224,"longitude":-46.75524057,"elevation":715.3},"160":{"timestamp":1605548434000,"latitude":-23.55741464,"longitude":-46.75538453,"elevation":715.3},"161":{"timestamp":1605548440000,"latitude":-23.55749324,"longitude":-46.75560047,"elevation":715.3},"162":{"timestamp":1605548442000,"latitude":-23.55751944,"longitude":-46.75567245,"elevation":715.3},"163":{"timestamp":1605548446000,"latitude":-23.55757184,"longitude":-46.75581641,"elevation":715.3},"164":{"timestamp":1605548448000,"latitude":-23.55759804,"longitude":-46.75588839,"elevation":715.3},"165":{"timestamp":1605548450000,"latitude":-23.55762424,"longitude":-46.75596037,"elevation":715.3},"166":{"timestamp":1605548456000,"latitude":-23.55774265,"longitude":-46.75627036,"elevation":715.3},"167":{"timestamp":1605548458000,"latitude":-23.55778215,"longitude":-46.75637374,"elevation":715.3},"168":{"timestamp":1605548460000,"latitude":-23.55782165,"longitude":-46.75647712,"elevation":715.3},"169":{"timestamp":1605548462000,"latitude":-23.55786115,"longitude":-46.7565805,"elevation":715.3},"170":{"timestamp":1605548464000,"latitude":-23.55790065,"longitude":-46.75668388,"elevation":715.3},"171":{"timestamp":1605548467000,"latitude":-23.5579599,"longitude":-46.75683895,"elevation":715.3},"172":{"timestamp":1605548469000,"latitude":-23.5579994,"longitude":-46.75694233,"elevation":715.3},"173":{"timestamp":1605548471000,"latitude":-23.5580389,"longitude":-46.75704571,"elevation":715.3},"174":{"timestamp":1605548477000,"latitude":-23.5581574,"longitude":-46.75735585,"elevation":715.3},"175":{"timestamp":1605548479000,"latitude":-23.5581969,"longitude":-46.75745923,"elevation":715.3},"176":{"timestamp":1605548481000,"latitude":-23.5582364,"longitude":-46.75756261,"elevation":715.3},"177":{"timestamp":1605548485000,"latitude":-23.5582682,"longitude":-46.75767787,"elevation":715.3},"178":{"timestamp":1605548487000,"latitude":-23.5582841,"longitude":-46.75773561,"elevation":715.3},"179":{"timestamp":1605548489000,"latitude":-23.5583,"longitude":-46.75779335,"elevation":715.3},"180":{"timestamp":1605548491000,"latitude":-23.5583159,"longitude":-46.75785109,"elevation":715.3},"181":{"timestamp":1605548492000,"latitude":-23.55832385,"longitude":-46.75787996,"elevation":715.3},"182":{"timestamp":1605548494000,"latitude":-23.55833975,"longitude":-46.7579377,"elevation":715.3},"183":{"timestamp":1605548496000,"latitude":-23.55835565,"longitude":-46.75799544,"elevation":715.3},"184":{"timestamp":1605548501000,"latitude":-23.5583954,"longitude":-46.75813979,"elevation":715.3},"185":{"timestamp":1605548503000,"latitude":-23.5584113,"longitude":-46.75819753,"elevation":715.3},"186":{"timestamp":1605548504000,"latitude":-23.55841925,"longitude":-46.7582264,"elevation":715.3},"187":{"timestamp":1605548506000,"latitude":-23.55843515,"longitude":-46.75828414,"elevation":715.3},"188":{"timestamp":1605548511000,"latitude":-23.5584749,"longitude":-46.75842849,"elevation":715.3},"189":{"timestamp":1605548512000,"latitude":-23.55848232,"longitude":-46.75844613,"elevation":715.3},"190":{"timestamp":1605548518000,"latitude":-23.55852738,"longitude":-46.75855299,"elevation":715.3},"191":{"timestamp":1605548520000,"latitude":-23.5585424,"longitude":-46.75858861,"elevation":715.3},"192":{"timestamp":1605548524000,"latitude":-23.55857244,"longitude":-46.75865985,"elevation":715.3},"193":{"timestamp":1605548529000,"latitude":-23.55860999,"longitude":-46.7587489,"elevation":715.3},"194":{"timestamp":1605548531000,"latitude":-23.55862501,"longitude":-46.75878452,"elevation":715.3},"195":{"timestamp":1605548533000,"latitude":-23.55864003,"longitude":-46.75882014,"elevation":715.3},"196":{"timestamp":1605548535000,"latitude":-23.55865505,"longitude":-46.75885576,"elevation":715.3},"197":{"timestamp":1605548539000,"latitude":-23.55868509,"longitude":-46.758927,"elevation":715.3},"198":{"timestamp":1605548541000,"latitude":-23.55870011,"longitude":-46.75896262,"elevation":715.3},"199":{"timestamp":1605548545000,"latitude":-23.55869507,"longitude":-46.75923553,"elevation":715.3},"200":{"timestamp":1605548551000,"latitude":-23.55868787,"longitude":-46.75964527,"elevation":715.3},"201":{"timestamp":1605548553000,"latitude":-23.55868547,"longitude":-46.75978185,"elevation":715.3},"202":{"timestamp":1605548559000,"latitude":-23.55867827,"longitude":-46.76019159,"elevation":715.3},"203":{"timestamp":1605548561000,"latitude":-23.55867587,"longitude":-46.76032817,"elevation":715.3},"204":{"timestamp":1605548563000,"latitude":-23.55867347,"longitude":-46.76046475,"elevation":715.3},"205":{"timestamp":1605548565000,"latitude":-23.55867107,"longitude":-46.76060133,"elevation":715.3},"206":{"timestamp":1605548567000,"latitude":-23.55866867,"longitude":-46.76073791,"elevation":715.3},"207":{"timestamp":1605548569000,"latitude":-23.55866627,"longitude":-46.76087449,"elevation":715.3},"208":{"timestamp":1605548571000,"latitude":-23.55866387,"longitude":-46.76101107,"elevation":715.3},"209":{"timestamp":1605548573000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"210":{"timestamp":1605548575000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"211":{"timestamp":1605548579000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"212":{"timestamp":1605548583000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"213":{"timestamp":1605548586000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"214":{"timestamp":1605548588000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"215":{"timestamp":1605548590000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"216":{"timestamp":1605548591000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"217":{"timestamp":1605548593000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"218":{"timestamp":1605548595000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"219":{"timestamp":1605548597000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"220":{"timestamp":1605548599000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"221":{"timestamp":1605548601000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"222":{"timestamp":1605548605000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"223":{"timestamp":1605548607000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"224":{"timestamp":1605548611000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"225":{"timestamp":1605548615000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"226":{"timestamp":1605548617000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"227":{"timestamp":1605548619000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"228":{"timestamp":1605548621000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"229":{"timestamp":1605548625000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"230":{"timestamp":1605548627000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"231":{"timestamp":1605548629000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"232":{"timestamp":1605548631000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"233":{"timestamp":1605548635000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"234":{"timestamp":1605548637000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"235":{"timestamp":1605548643000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"236":{"timestamp":1605548645000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"237":{"timestamp":1605548646000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"238":{"timestamp":1605548650000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"239":{"timestamp":1605548654000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"240":{"timestamp":1605548658000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"241":{"timestamp":1605548660000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"242":{"timestamp":1605548662000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"243":{"timestamp":1605548664000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"244":{"timestamp":1605548666000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"245":{"timestamp":1605548668000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"246":{"timestamp":1605548671000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"247":{"timestamp":1605548674000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"248":{"timestamp":1605548678000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"249":{"timestamp":1605548684000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"250":{"timestamp":1605548689000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"251":{"timestamp":1605548695000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"252":{"timestamp":1605548702000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"253":{"timestamp":1605548705000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"254":{"timestamp":1605548710000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"255":{"timestamp":1605548714000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"256":{"timestamp":1605548718000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"257":{"timestamp":1605548720000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"258":{"timestamp":1605548722000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"259":{"timestamp":1605548724000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"260":{"timestamp":1605548728000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"261":{"timestamp":1605548730000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"262":{"timestamp":1605548734000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"263":{"timestamp":1605548736000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"264":{"timestamp":1605548738000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"265":{"timestamp":1605548740000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"266":{"timestamp":1605548742000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"267":{"timestamp":1605548744000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"268":{"timestamp":1605548746000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"269":{"timestamp":1605548748000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"270":{"timestamp":1605548750000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"271":{"timestamp":1605548752000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"272":{"timestamp":1605548754000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"273":{"timestamp":1605548760000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"274":{"timestamp":1605548764000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"275":{"timestamp":1605548766000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"276":{"timestamp":1605548767000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"277":{"timestamp":1605548769000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"278":{"timestamp":1605548771000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"279":{"timestamp":1605548775000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"280":{"timestamp":1605548781000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"281":{"timestamp":1605548786000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"282":{"timestamp":1605548793000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"283":{"timestamp":1605548795000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"284":{"timestamp":1605548796000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"285":{"timestamp":1605548798000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"286":{"timestamp":1605548800000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"287":{"timestamp":1605548804000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"288":{"timestamp":1605548808000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"289":{"timestamp":1605548810000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"290":{"timestamp":1605548812000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"291":{"timestamp":1605548814000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"292":{"timestamp":1605548816000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"293":{"timestamp":1605548820000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"294":{"timestamp":1605548822000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"295":{"timestamp":1605548824000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"296":{"timestamp":1605548826000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"297":{"timestamp":1605548827000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"298":{"timestamp":1605548829000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"299":{"timestamp":1605548831000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"300":{"timestamp":1605548835000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"301":{"timestamp":1605548837000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"302":{"timestamp":1605548839000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"303":{"timestamp":1605548841000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"304":{"timestamp":1605548843000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"305":{"timestamp":1605548845000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"306":{"timestamp":1605548847000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"307":{"timestamp":1605548849000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"308":{"timestamp":1605548854000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"309":{"timestamp":1605548858000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"310":{"timestamp":1605548864000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"311":{"timestamp":1605548870000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"312":{"timestamp":1605548872000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"313":{"timestamp":1605548878000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"314":{"timestamp":1605548884000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"315":{"timestamp":1605548888000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"316":{"timestamp":1605548889000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"317":{"timestamp":1605548892000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"318":{"timestamp":1605548893000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"319":{"timestamp":1605548895000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"320":{"timestamp":1605548901000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"321":{"timestamp":1605548905000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"322":{"timestamp":1605548911000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"323":{"timestamp":1605548913000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"324":{"timestamp":1605548919000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"325":{"timestamp":1605548925000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"326":{"timestamp":1605548927000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"327":{"timestamp":1605548929000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"328":{"timestamp":1605548931000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"329":{"timestamp":1605548933000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"330":{"timestamp":1605548939000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"331":{"timestamp":1605548945000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"332":{"timestamp":1605548950000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"333":{"timestamp":1605548956000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"334":{"timestamp":1605548957000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"335":{"timestamp":1605548958000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"336":{"timestamp":1605548959000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"337":{"timestamp":1605548960000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"338":{"timestamp":1605548961000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"339":{"timestamp":1605548962000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"340":{"timestamp":1605548963000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"341":{"timestamp":1605548964000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"342":{"timestamp":1605548965000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"343":{"timestamp":1605548967000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"344":{"timestamp":1605548968000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"345":{"timestamp":1605548969000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"346":{"timestamp":1605548970000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"347":{"timestamp":1605548972000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"348":{"timestamp":1605548973000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"349":{"timestamp":1605548974000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"350":{"timestamp":1605548975000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"351":{"timestamp":1605548976000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"352":{"timestamp":1605548977000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"353":{"timestamp":1605548978000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"354":{"timestamp":1605548979000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"355":{"timestamp":1605548980000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"356":{"timestamp":1605548981000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"357":{"timestamp":1605548982000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"358":{"timestamp":1605548983000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"359":{"timestamp":1605548984000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"360":{"timestamp":1605548985000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"361":{"timestamp":1605548987000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"362":{"timestamp":1605548993000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"363":{"timestamp":1605548995000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"364":{"timestamp":1605548999000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"365":{"timestamp":1605549005000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"366":{"timestamp":1605549007000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"367":{"timestamp":1605549010000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"368":{"timestamp":1605549012000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"369":{"timestamp":1605549016000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"370":{"timestamp":1605549018000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"371":{"timestamp":1605549020000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"372":{"timestamp":1605549024000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"373":{"timestamp":1605549028000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"374":{"timestamp":1605549030000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"375":{"timestamp":1605549032000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"376":{"timestamp":1605549038000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"377":{"timestamp":1605549040000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"378":{"timestamp":1605549046000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"379":{"timestamp":1605549048000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"380":{"timestamp":1605549052000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"381":{"timestamp":1605549054000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"382":{"timestamp":1605549058000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"383":{"timestamp":1605549062000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"384":{"timestamp":1605549064000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"385":{"timestamp":1605549070000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"386":{"timestamp":1605549074000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"387":{"timestamp":1605549078000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"388":{"timestamp":1605549082000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"389":{"timestamp":1605549086000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"390":{"timestamp":1605549091000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"391":{"timestamp":1605549093000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"392":{"timestamp":1605549095000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"393":{"timestamp":1605549097000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"394":{"timestamp":1605549101000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"395":{"timestamp":1605549103000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"396":{"timestamp":1605549105000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"397":{"timestamp":1605549109000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"398":{"timestamp":1605549111000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"399":{"timestamp":1605549113000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"400":{"timestamp":1605549115000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"401":{"timestamp":1605549119000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"402":{"timestamp":1605549121000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"403":{"timestamp":1605549123000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"404":{"timestamp":1605549129000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"405":{"timestamp":1605549135000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"406":{"timestamp":1605549141000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"407":{"timestamp":1605549143000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"408":{"timestamp":1605549149000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"409":{"timestamp":1605549153000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"410":{"timestamp":1605549159000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"411":{"timestamp":1605549165000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"412":{"timestamp":1605549171000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"413":{"timestamp":1605549173000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"414":{"timestamp":1605549179000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"415":{"timestamp":1605549185000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"416":{"timestamp":1605549188000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"417":{"timestamp":1605549189000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"418":{"timestamp":1605549195000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"419":{"timestamp":1605549201000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"420":{"timestamp":1605549207000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"421":{"timestamp":1605549213000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"422":{"timestamp":1605549215000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"423":{"timestamp":1605549217000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"424":{"timestamp":1605549219000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"425":{"timestamp":1605549221000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"426":{"timestamp":1605549223000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3},"427":{"timestamp":1605549229000,"latitude":-23.55866364,"longitude":-46.76101086,"elevation":715.3}}
+{
+    "route": [
+        {
+            "timestamp": 1605547998000,
+            "latitude": -23.55788544,
+            "longitude": -46.74725888,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548001000,
+            "latitude": -23.55788544,
+            "longitude": -46.74725888,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548002000,
+            "latitude": -23.55790642,
+            "longitude": -46.74727032,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548003000,
+            "latitude": -23.55791786,
+            "longitude": -46.74727413,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548004000,
+            "latitude": -23.55791024,
+            "longitude": -46.74727032,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548005000,
+            "latitude": -23.55788545,
+            "longitude": -46.7472627,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548006000,
+            "latitude": -23.55785494,
+            "longitude": -46.74725126,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548007000,
+            "latitude": -23.5578435,
+            "longitude": -46.74724745,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548008000,
+            "latitude": -23.55783015,
+            "longitude": -46.74724364,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548009000,
+            "latitude": -23.5578149,
+            "longitude": -46.74723602,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548010000,
+            "latitude": -23.55780537,
+            "longitude": -46.74723221,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548011000,
+            "latitude": -23.55779775,
+            "longitude": -46.74723221,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548012000,
+            "latitude": -23.55778059,
+            "longitude": -46.74722077,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548013000,
+            "latitude": -23.5577736,
+            "longitude": -46.74721823,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548015000,
+            "latitude": -23.55775962,
+            "longitude": -46.74721315,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548016000,
+            "latitude": -23.55774817,
+            "longitude": -46.74720553,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548017000,
+            "latitude": -23.55775389,
+            "longitude": -46.74720934,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548018000,
+            "latitude": -23.55775199,
+            "longitude": -46.74720934,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548019000,
+            "latitude": -23.55775389,
+            "longitude": -46.74720934,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548020000,
+            "latitude": -23.55774627,
+            "longitude": -46.74720553,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548021000,
+            "latitude": -23.55774246,
+            "longitude": -46.74720172,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548022000,
+            "latitude": -23.55774056,
+            "longitude": -46.74720172,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548023000,
+            "latitude": -23.55774246,
+            "longitude": -46.74720172,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548025000,
+            "latitude": -23.55774818,
+            "longitude": -46.74720172,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548026000,
+            "latitude": -23.55775009,
+            "longitude": -46.74720299,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548027000,
+            "latitude": -23.557752,
+            "longitude": -46.74720426,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548028000,
+            "latitude": -23.55775391,
+            "longitude": -46.74720553,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548029000,
+            "latitude": -23.5577609,
+            "longitude": -46.7472068,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548030000,
+            "latitude": -23.5577679,
+            "longitude": -46.74720807,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548031000,
+            "latitude": -23.5577749,
+            "longitude": -46.74720934,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548033000,
+            "latitude": -23.55778442,
+            "longitude": -46.74721316,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548034000,
+            "latitude": -23.55777842,
+            "longitude": -46.74721642,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548035000,
+            "latitude": -23.55777243,
+            "longitude": -46.74721969,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548040000,
+            "latitude": -23.55774248,
+            "longitude": -46.74723604,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548041000,
+            "latitude": -23.55775198,
+            "longitude": -46.74722841,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548043000,
+            "latitude": -23.55779776,
+            "longitude": -46.74721697,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548044000,
+            "latitude": -23.55779394,
+            "longitude": -46.74721697,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548045000,
+            "latitude": -23.55773863,
+            "longitude": -46.74719409,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548046000,
+            "latitude": -23.55769667,
+            "longitude": -46.74716358,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548047000,
+            "latitude": -23.55767188,
+            "longitude": -46.74712544,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548048000,
+            "latitude": -23.5576509,
+            "longitude": -46.74709111,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548049000,
+            "latitude": -23.55763755,
+            "longitude": -46.74706823,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548050000,
+            "latitude": -23.55762611,
+            "longitude": -46.74704916,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548051000,
+            "latitude": -23.55761467,
+            "longitude": -46.74703391,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548052000,
+            "latitude": -23.55760705,
+            "longitude": -46.74702629,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548053000,
+            "latitude": -23.55760515,
+            "longitude": -46.7470301,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548054000,
+            "latitude": -23.55760705,
+            "longitude": -46.74704154,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548055000,
+            "latitude": -23.55761277,
+            "longitude": -46.74705298,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548056000,
+            "latitude": -23.55762039,
+            "longitude": -46.74706823,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548057000,
+            "latitude": -23.5576242,
+            "longitude": -46.74708348,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548058000,
+            "latitude": -23.55762992,
+            "longitude": -46.74709492,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548059000,
+            "latitude": -23.55763564,
+            "longitude": -46.74711017,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548060000,
+            "latitude": -23.55764326,
+            "longitude": -46.74712542,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548077000,
+            "latitude": -23.55777297,
+            "longitude": -46.74723235,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548090000,
+            "latitude": -23.55817738,
+            "longitude": -46.74802198,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548120000,
+            "latitude": -23.5573517,
+            "longitude": -46.74917777,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548125000,
+            "latitude": -23.55744107,
+            "longitude": -46.74898322,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548131000,
+            "latitude": -23.5573825,
+            "longitude": -46.74910132,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548133000,
+            "latitude": -23.55736298,
+            "longitude": -46.7491407,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548135000,
+            "latitude": -23.55734346,
+            "longitude": -46.74918008,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548137000,
+            "latitude": -23.55732394,
+            "longitude": -46.74921946,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548143000,
+            "latitude": -23.55726538,
+            "longitude": -46.7493376,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548149000,
+            "latitude": -23.55720682,
+            "longitude": -46.74945574,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548150000,
+            "latitude": -23.55719706,
+            "longitude": -46.74947543,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548151000,
+            "latitude": -23.55719441,
+            "longitude": -46.74949225,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548153000,
+            "latitude": -23.55718939,
+            "longitude": -46.74952621,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548155000,
+            "latitude": -23.55718437,
+            "longitude": -46.74956017,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548157000,
+            "latitude": -23.55717935,
+            "longitude": -46.74959413,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548163000,
+            "latitude": -23.55716429,
+            "longitude": -46.74969601,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548165000,
+            "latitude": -23.55715927,
+            "longitude": -46.74972997,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548169000,
+            "latitude": -23.55714923,
+            "longitude": -46.74979789,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548171000,
+            "latitude": -23.55714421,
+            "longitude": -46.74983185,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548173000,
+            "latitude": -23.55713919,
+            "longitude": -46.74986581,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548176000,
+            "latitude": -23.55713166,
+            "longitude": -46.74991675,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548179000,
+            "latitude": -23.55712413,
+            "longitude": -46.74996769,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548183000,
+            "latitude": -23.55711409,
+            "longitude": -46.75003561,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548185000,
+            "latitude": -23.55710907,
+            "longitude": -46.75006957,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548187000,
+            "latitude": -23.55710405,
+            "longitude": -46.75010353,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548189000,
+            "latitude": -23.55709903,
+            "longitude": -46.75013749,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548192000,
+            "latitude": -23.5570915,
+            "longitude": -46.75018843,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548194000,
+            "latitude": -23.55708648,
+            "longitude": -46.75022239,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548196000,
+            "latitude": -23.55708146,
+            "longitude": -46.75025635,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548198000,
+            "latitude": -23.55707644,
+            "longitude": -46.75029031,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548200000,
+            "latitude": -23.55707142,
+            "longitude": -46.75032427,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548202000,
+            "latitude": -23.5570664,
+            "longitude": -46.75035823,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548205000,
+            "latitude": -23.55705887,
+            "longitude": -46.75040917,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548206000,
+            "latitude": -23.55705636,
+            "longitude": -46.75042615,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548208000,
+            "latitude": -23.55705134,
+            "longitude": -46.75046011,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548210000,
+            "latitude": -23.55704632,
+            "longitude": -46.75049407,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548212000,
+            "latitude": -23.55704778,
+            "longitude": -46.75053499,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548214000,
+            "latitude": -23.55704932,
+            "longitude": -46.75057619,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548216000,
+            "latitude": -23.55705086,
+            "longitude": -46.75061739,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548219000,
+            "latitude": -23.55705317,
+            "longitude": -46.75067919,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548223000,
+            "latitude": -23.55705625,
+            "longitude": -46.75076159,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548229000,
+            "latitude": -23.55706087,
+            "longitude": -46.75088519,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548231000,
+            "latitude": -23.55706241,
+            "longitude": -46.75092639,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548233000,
+            "latitude": -23.55706395,
+            "longitude": -46.75096759,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548235000,
+            "latitude": -23.55706549,
+            "longitude": -46.75100879,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548237000,
+            "latitude": -23.55706703,
+            "longitude": -46.75104999,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548239000,
+            "latitude": -23.55706857,
+            "longitude": -46.75109119,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548240000,
+            "latitude": -23.55706934,
+            "longitude": -46.75111179,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548241000,
+            "latitude": -23.55706442,
+            "longitude": -46.75113708,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548243000,
+            "latitude": -23.55705502,
+            "longitude": -46.7511877,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548245000,
+            "latitude": -23.55704562,
+            "longitude": -46.75123832,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548247000,
+            "latitude": -23.55703622,
+            "longitude": -46.75128894,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548249000,
+            "latitude": -23.55702682,
+            "longitude": -46.75133956,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548251000,
+            "latitude": -23.55701742,
+            "longitude": -46.75139018,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548257000,
+            "latitude": -23.55698922,
+            "longitude": -46.75154204,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548259000,
+            "latitude": -23.55697982,
+            "longitude": -46.75159266,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548261000,
+            "latitude": -23.55697042,
+            "longitude": -46.75164328,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548263000,
+            "latitude": -23.55696102,
+            "longitude": -46.7516939,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548265000,
+            "latitude": -23.55695162,
+            "longitude": -46.75174452,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548270000,
+            "latitude": -23.55692812,
+            "longitude": -46.75187107,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548271000,
+            "latitude": -23.55692805,
+            "longitude": -46.75189315,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548273000,
+            "latitude": -23.55692819,
+            "longitude": -46.75193767,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548276000,
+            "latitude": -23.5569284,
+            "longitude": -46.75200445,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548277000,
+            "latitude": -23.55692847,
+            "longitude": -46.75202671,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548279000,
+            "latitude": -23.55692861,
+            "longitude": -46.75207123,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548284000,
+            "latitude": -23.55692896,
+            "longitude": -46.75218253,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548288000,
+            "latitude": -23.55692924,
+            "longitude": -46.75227157,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548294000,
+            "latitude": -23.55692966,
+            "longitude": -46.75240513,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548297000,
+            "latitude": -23.55692987,
+            "longitude": -46.75247191,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548300000,
+            "latitude": -23.55693008,
+            "longitude": -46.75253869,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548301000,
+            "latitude": -23.55692823,
+            "longitude": -46.75256072,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548305000,
+            "latitude": -23.55692163,
+            "longitude": -46.75264976,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548311000,
+            "latitude": -23.55691173,
+            "longitude": -46.75278332,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548315000,
+            "latitude": -23.55690513,
+            "longitude": -46.75287236,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548317000,
+            "latitude": -23.55690183,
+            "longitude": -46.75291688,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548319000,
+            "latitude": -23.55689853,
+            "longitude": -46.7529614,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548321000,
+            "latitude": -23.55689523,
+            "longitude": -46.75300592,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548327000,
+            "latitude": -23.55688533,
+            "longitude": -46.75313948,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548330000,
+            "latitude": -23.55688038,
+            "longitude": -46.75320626,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548333000,
+            "latitude": -23.55688422,
+            "longitude": -46.75323846,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548339000,
+            "latitude": -23.55689208,
+            "longitude": -46.75330332,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548343000,
+            "latitude": -23.55689732,
+            "longitude": -46.75334656,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548348000,
+            "latitude": -23.55690387,
+            "longitude": -46.75340061,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548354000,
+            "latitude": -23.55691173,
+            "longitude": -46.75346547,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548360000,
+            "latitude": -23.55691959,
+            "longitude": -46.75353033,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548366000,
+            "latitude": -23.55692745,
+            "longitude": -46.75359519,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548372000,
+            "latitude": -23.55693531,
+            "longitude": -46.75366005,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548374000,
+            "latitude": -23.55693793,
+            "longitude": -46.75368167,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548378000,
+            "latitude": -23.55694317,
+            "longitude": -46.75372491,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548384000,
+            "latitude": -23.55695103,
+            "longitude": -46.75378977,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548386000,
+            "latitude": -23.55695365,
+            "longitude": -46.75381139,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548389000,
+            "latitude": -23.55695758,
+            "longitude": -46.75384382,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548390000,
+            "latitude": -23.55695889,
+            "longitude": -46.75385463,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548393000,
+            "latitude": -23.55698579,
+            "longitude": -46.75395715,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548397000,
+            "latitude": -23.55702219,
+            "longitude": -46.75409399,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548399000,
+            "latitude": -23.55704039,
+            "longitude": -46.75416241,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548401000,
+            "latitude": -23.55705859,
+            "longitude": -46.75423083,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548403000,
+            "latitude": -23.55707679,
+            "longitude": -46.75429925,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548405000,
+            "latitude": -23.55709499,
+            "longitude": -46.75436767,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548408000,
+            "latitude": -23.55712229,
+            "longitude": -46.7544703,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548412000,
+            "latitude": -23.55715869,
+            "longitude": -46.75460714,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548414000,
+            "latitude": -23.55717689,
+            "longitude": -46.75467556,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548416000,
+            "latitude": -23.55719509,
+            "longitude": -46.75474398,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548420000,
+            "latitude": -23.55723149,
+            "longitude": -46.75488082,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548424000,
+            "latitude": -23.55728364,
+            "longitude": -46.75502463,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548426000,
+            "latitude": -23.55730984,
+            "longitude": -46.75509661,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548430000,
+            "latitude": -23.55736224,
+            "longitude": -46.75524057,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548434000,
+            "latitude": -23.55741464,
+            "longitude": -46.75538453,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548440000,
+            "latitude": -23.55749324,
+            "longitude": -46.75560047,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548442000,
+            "latitude": -23.55751944,
+            "longitude": -46.75567245,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548446000,
+            "latitude": -23.55757184,
+            "longitude": -46.75581641,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548448000,
+            "latitude": -23.55759804,
+            "longitude": -46.75588839,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548450000,
+            "latitude": -23.55762424,
+            "longitude": -46.75596037,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548456000,
+            "latitude": -23.55774265,
+            "longitude": -46.75627036,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548458000,
+            "latitude": -23.55778215,
+            "longitude": -46.75637374,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548460000,
+            "latitude": -23.55782165,
+            "longitude": -46.75647712,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548462000,
+            "latitude": -23.55786115,
+            "longitude": -46.7565805,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548464000,
+            "latitude": -23.55790065,
+            "longitude": -46.75668388,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548467000,
+            "latitude": -23.5579599,
+            "longitude": -46.75683895,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548469000,
+            "latitude": -23.5579994,
+            "longitude": -46.75694233,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548471000,
+            "latitude": -23.5580389,
+            "longitude": -46.75704571,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548477000,
+            "latitude": -23.5581574,
+            "longitude": -46.75735585,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548479000,
+            "latitude": -23.5581969,
+            "longitude": -46.75745923,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548481000,
+            "latitude": -23.5582364,
+            "longitude": -46.75756261,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548485000,
+            "latitude": -23.5582682,
+            "longitude": -46.75767787,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548487000,
+            "latitude": -23.5582841,
+            "longitude": -46.75773561,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548489000,
+            "latitude": -23.5583,
+            "longitude": -46.75779335,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548491000,
+            "latitude": -23.5583159,
+            "longitude": -46.75785109,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548492000,
+            "latitude": -23.55832385,
+            "longitude": -46.75787996,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548494000,
+            "latitude": -23.55833975,
+            "longitude": -46.7579377,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548496000,
+            "latitude": -23.55835565,
+            "longitude": -46.75799544,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548501000,
+            "latitude": -23.5583954,
+            "longitude": -46.75813979,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548503000,
+            "latitude": -23.5584113,
+            "longitude": -46.75819753,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548504000,
+            "latitude": -23.55841925,
+            "longitude": -46.7582264,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548506000,
+            "latitude": -23.55843515,
+            "longitude": -46.75828414,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548511000,
+            "latitude": -23.5584749,
+            "longitude": -46.75842849,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548512000,
+            "latitude": -23.55848232,
+            "longitude": -46.75844613,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548518000,
+            "latitude": -23.55852738,
+            "longitude": -46.75855299,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548520000,
+            "latitude": -23.5585424,
+            "longitude": -46.75858861,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548524000,
+            "latitude": -23.55857244,
+            "longitude": -46.75865985,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548529000,
+            "latitude": -23.55860999,
+            "longitude": -46.7587489,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548531000,
+            "latitude": -23.55862501,
+            "longitude": -46.75878452,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548533000,
+            "latitude": -23.55864003,
+            "longitude": -46.75882014,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548535000,
+            "latitude": -23.55865505,
+            "longitude": -46.75885576,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548539000,
+            "latitude": -23.55868509,
+            "longitude": -46.758927,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548541000,
+            "latitude": -23.55870011,
+            "longitude": -46.75896262,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548545000,
+            "latitude": -23.55869507,
+            "longitude": -46.75923553,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548551000,
+            "latitude": -23.55868787,
+            "longitude": -46.75964527,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548553000,
+            "latitude": -23.55868547,
+            "longitude": -46.75978185,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548559000,
+            "latitude": -23.55867827,
+            "longitude": -46.76019159,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548561000,
+            "latitude": -23.55867587,
+            "longitude": -46.76032817,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548563000,
+            "latitude": -23.55867347,
+            "longitude": -46.76046475,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548565000,
+            "latitude": -23.55867107,
+            "longitude": -46.76060133,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548567000,
+            "latitude": -23.55866867,
+            "longitude": -46.76073791,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548569000,
+            "latitude": -23.55866627,
+            "longitude": -46.76087449,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548571000,
+            "latitude": -23.55866387,
+            "longitude": -46.76101107,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548573000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548575000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548579000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548583000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548586000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548588000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548590000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548591000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548593000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548595000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548597000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548599000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548601000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548605000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548607000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548611000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548615000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548617000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548619000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548621000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548625000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548627000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548629000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548631000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548635000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548637000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548643000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548645000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548646000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548650000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548654000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548658000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548660000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548662000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548664000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548666000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548668000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548671000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548674000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548678000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548684000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548689000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548695000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548702000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548705000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548710000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548714000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548718000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548720000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548722000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548724000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548728000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548730000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548734000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548736000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548738000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548740000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548742000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548744000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548746000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548748000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548750000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548752000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548754000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548760000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548764000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548766000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548767000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548769000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548771000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548775000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548781000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548786000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548793000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548795000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548796000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548798000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548800000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548804000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548808000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548810000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548812000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548814000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548816000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548820000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548822000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548824000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548826000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548827000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548829000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548831000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548835000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548837000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548839000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548841000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548843000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548845000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548847000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548849000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548854000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548858000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548864000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548870000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548872000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548878000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548884000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548888000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548889000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548892000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548893000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548895000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548901000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548905000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548911000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548913000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548919000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548925000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548927000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548929000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548931000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548933000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548939000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548945000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548950000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548956000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548957000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548958000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548959000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548960000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548961000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548962000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548963000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548964000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548965000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548967000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548968000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548969000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548970000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548972000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548973000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548974000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548975000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548976000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548977000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548978000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548979000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548980000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548981000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548982000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548983000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548984000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548985000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548987000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548993000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548995000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605548999000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549005000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549007000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549010000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549012000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549016000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549018000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549020000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549024000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549028000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549030000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549032000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549038000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549040000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549046000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549048000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549052000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549054000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549058000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549062000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549064000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549070000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549074000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549078000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549082000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549086000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549091000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549093000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549095000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549097000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549101000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549103000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549105000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549109000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549111000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549113000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549115000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549119000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549121000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549123000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549129000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549135000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549141000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549143000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549149000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549153000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549159000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549165000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549171000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549173000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549179000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549185000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549188000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549189000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549195000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549201000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549207000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549213000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549215000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549217000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549219000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549221000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549223000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        },
+        {
+            "timestamp": 1605549229000,
+            "latitude": -23.55866364,
+            "longitude": -46.76101086,
+            "elevation": 715.3
+        }
+    ],
+    "general_info": {
+        "type": 9,
+        "startTime": "2020-11-16 14:33:17 -0300",
+        "sportTime(s)": 1235,
+        "maxPace(/meter)": 0.5652911,
+        "minPace(/meter)": 0.3984064,
+        "distance(m)": 1639,
+        "avgPace(/meter)": 0.7530948,
+        "calories(kcal)": 103,
+        "json_name": "Workout--2020-11-16--14-33-17.json"
+    }
+}
