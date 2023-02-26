@@ -5,6 +5,16 @@ from datetime import datetime
 from dataframe_creator import DataFrameCreator
 
 
+'''
+R.Paraguaçu: (-23.562405346185454, -46.77605625444006)->(-23.56223209778218, -46.77324323637639)
+R. Guatemala (-23.562262407060924, -46.77505893039126)->(-23.560682655839585, -46.77504353977187)
+Av. Manoel de Nóbrega (-23.560419711566198, -46.77039949222879)->(-23.56223209778218, -46.77324323637639)
+Av. Manoel de Nóbrega (-23.560419711566198, -46.77039949222879)->(-23.55889146395058, -46.76690518788758)
+Av. Dr Martin Luther King (-23.557703213925162, -46.763924431024996)->(-23.558286410077947, -46.76682611850268)
+Av. Dr Cândido Motta FIlho (-23.556865478187664, -46.75321448962341)->(-23.55711705037529, -46.74987542723435)
+
+'''
+
 class RouteAnalyzer:
     def __init__(self, routes: pd.DataFrame) -> None:
         self.routes_df = routes
@@ -56,3 +66,6 @@ class RouteAnalyzer:
             times.append(total_t)
 
         return speeds, times
+    
+    def calculate_acceleration_between_coords(self, coord1 : tuple, coord2: tuple) -> float:
+
