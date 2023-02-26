@@ -11,5 +11,12 @@ The data used in the project has two main types: **training route data** and **t
 
 * **Route Data:** The training route data was collected using the [Zepp Life App](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health&hl=pt_BR&gl=US&pli=1) during the period of Sep/2020 until Jan/2023. The Zepp Life App allows users to download their training route data as [GPX files](https://pt.wikipedia.org/wiki/GPX), but one can only export data from one train at a time, which makes it infeasible to export data from hundreds of workouts manually. Therefore, the [Mi-Fit-and-Zepp-workout-exporter](https://github.com/rolandsz/Mi-Fit-and-Zepp-workout-exporter) repository was used. This exporter automates the exportation of one user's data from all their workouts using the application's API endpoint made for requests for single workouts' data exportation.
 
-* **Traning Metadata**: the training metadata, on the other hand, was much easier to export because Zepp Life has a feature that exports one user's training metadata from all of their trainings recorded at once. This feature is implemented sending a compressed file to the user's registered email in the application.  
-## 
+* **Traning Metadata**: the training metadata, on the other hand, was much easier to export because Zepp Life has a feature that exports one user's training metadata from all of their trainings recorded at once. This feature is implemented sending a compressed file to the user's registered email in the application.
+
+## Workouts Evolution
+The following metrics were used to evaluate each workout:
+* Average Speed
+* Off Slope Maximum Speed
+* Distance Traveled at Off Slope Maximum Speed
+* Off Slope Maximum Accelerations
+* Total Time Under Off Slope Acceleration
