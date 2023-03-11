@@ -29,7 +29,7 @@ class GPXHandler:
 
     def gpx_to_json(self, file_name: str, output_path: str) -> str:
         gpx_data_frame = self.parsed_gpx_to_dataframe(self.read_gpx_file(file_name))
-        return gpx_data_frame.to_json(orient="index", path_or_buf=output_path)
+        return gpx_data_frame.to_json(orient="records", path_or_buf=output_path)
 
     def write_json_from_gpx(self, input: str, output_dir: str) -> None:
         output_path = output_dir + Path(input).stem + ".json"

@@ -5,30 +5,34 @@ import json, os
 class DataFrameCreator:
     def __init__(self, routes_dir: str):
         self.routes_dir = routes_dir
-        self.routes = self.create_list_of_routes(routes_dir)
-        pass
+        self.routes, self.routes_info = self.read_routes_info(routes_dir)
 
-    def read_route_from_json(self, json_path: str, key: str = "route") -> list:
+    def read_route_from_json(
+        self, json_path: str, route_key: str = "route", info_key: str = "general_info"
+    ) -> list:
         with open(json_path, "r") as f:
-            out = json.load(f)[key]
-        return out
+            data = json.load(f)
+            route = data[route_key]
+            route_info = data[info_key]
+        return route, route_info
 
     def add_route_id_to_points(self, route_id: int, route: list) -> None:
-
         for point in route:
             point["route_id"] = route_id
 
-    def create_list_of_routes(self, routes_dir: str) -> list:
-        out = []
-        route_id = 0
+    def read_routes_info(self, routes_dir: str) -> list:
+        routes = []
+        routes_info = {}
         for path in os.listdir(self.routes_dir):
             route_path = os.path.join(self.routes_dir, path)
             if os.path.isfile(route_path):
-                route = self.read_route_from_json(route_path)
+                route, route_info = self.read_route_from_json(route_path)
+                route_id = route_info["json_name"]
                 self.add_route_id_to_points(route_id, route)
-                out.append(route)
-                route_id += 1
-        return out
+                routes_info[route_id] = route_info
+                routes.append(route)
+
+        return routes, routes_info
 
     def create_routes_dataframe(self) -> pd.DataFrame:
         routes_df = pd.DataFrame()
@@ -37,10 +41,3 @@ class DataFrameCreator:
             routes_df = pd.concat([routes_df, df])
 
         return routes_df
-
-
-if __name__ == "__main__":
-    routes_dir = "../data/json_data/"
-    df_creator = DataFrameCreator(routes_dir)
-    df = df_creator.create_routes_dataframe()
-    print(df)
