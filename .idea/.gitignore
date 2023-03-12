@@ -1,5 +1,4 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.idea
-data_prep/__pycache__/
+data_prep/__pycache__
