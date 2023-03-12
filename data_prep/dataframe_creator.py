@@ -20,7 +20,7 @@ class DataFrameCreator:
         for point in route:
             point["route_id"] = route_id
 
-    def read_routes_info(self, routes_dir: str) -> list:
+    def read_routes_info(self, routes_dir: str) -> tuple:
         routes = []
         routes_info = {}
         for path in os.listdir(self.routes_dir):
