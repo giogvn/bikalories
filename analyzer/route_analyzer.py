@@ -1,5 +1,6 @@
 import json, os
 import pandas as pd
+import numpy as np
 from geopy import distance
 from datetime import datetime
 from collections import defaultdict
@@ -15,8 +16,11 @@ class RouteAnalyzer:
     def get_route(self, route_id: str) -> pd.DataFrame:
         return self.routes_df.loc[self.routes_df["route_id"] == route_id]
 
-    def calculate_route_dists_and_times(self, route_id: str) -> list:
-        distances = [(0, 0)]
+    def calculate_route_dists_and_times(self, route_id: str) -> dict:
+        dists = np.empty(shape=None)
+        times = np.empty(shape=None)
+        dists_and_times = {"dists": dists, "times": times}
+
         route = self.get_route(route_id)
 
         for index, row in route.iterrows():
@@ -34,17 +38,17 @@ class RouteAnalyzer:
 
             distance = self.get_distance_between_coords(coord1, coord2)
             delta_t = (time2 - time1).total_seconds()
+            dists_and_times["dists"] = np.append(dists_and_times["dists"], distance)
+            dists_and_times["times"] = np.append(dists_and_times["times"], delta_t)
 
-            distances.append((distance, delta_t))
-        return distances
+        return dists_and_times
 
-    def calculate_route_total_dists_and_times(self, route_id: str) -> tuple:
+    def calculate_route_acc_dists_and_times(self, route_id: str) -> list:
         points = self.calculate_route_dists_and_times(route_id)
-        dists = [p[0] for p in points]
-        times = [p[1] for p in points]
-
-        acumulated_dists = [sum(dists[: i + 1]) for i in range(len(dists))]
-        acumulated_times = [sum(times[: i + 1]) for i in range(len(times))]
+        dists = points["dists"]
+        times = points["times"]
+        acumulated_dists = np.cumsum(dists)
+        acumulated_times = np.cumsum(times)
 
         return acumulated_dists, acumulated_times
 
@@ -61,7 +65,6 @@ class RouteAnalyzer:
         return speeds, times
 
     def detect_slopes(self, route_id: str) -> dict:
-
         slope = False
         slopes = defaultdict(dict)
         counter = 0
@@ -95,7 +98,6 @@ class RouteAnalyzer:
         return slopes
 
     def get_route_profile(self, prof_dict: dict, prof_key: str = "type") -> list:
-
         profile = []
         for time_count in prof_dict:
             profile.append(prof_dict[time_count][prof_key])
