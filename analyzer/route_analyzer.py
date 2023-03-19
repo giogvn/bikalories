@@ -2,18 +2,8 @@ import json, os
 import pandas as pd
 from geopy import distance
 from datetime import datetime
-from dataframe_creator import DataFrameCreator
+from collections import defaultdict
 
-
-'''
-R.Paraguaçu: (-23.562405346185454, -46.77605625444006)->(-23.56223209778218, -46.77324323637639)
-R. Guatemala (-23.562262407060924, -46.77505893039126)->(-23.560682655839585, -46.77504353977187)
-Av. Manoel de Nóbrega (-23.560419711566198, -46.77039949222879)->(-23.56223209778218, -46.77324323637639)
-Av. Manoel de Nóbrega (-23.560419711566198, -46.77039949222879)->(-23.55889146395058, -46.76690518788758)
-Av. Dr Martin Luther King (-23.557703213925162, -46.763924431024996)->(-23.558286410077947, -46.76682611850268)
-Av. Dr Cândido Motta FIlho (-23.556865478187664, -46.75321448962341)->(-23.55711705037529, -46.74987542723435)
-
-'''
 
 class RouteAnalyzer:
     def __init__(self, routes: pd.DataFrame) -> None:
@@ -22,9 +12,12 @@ class RouteAnalyzer:
     def get_distance_between_coords(self, coord1: tuple, coord2: tuple) -> float:
         return distance.distance(coord1, coord2).meters
 
+    def get_route(self, route_id: str) -> pd.DataFrame:
+        return self.routes_df.loc[self.routes_df["route_id"] == route_id]
+
     def calculate_route_dists_and_times(self, route_id: str) -> list:
         distances = [(0, 0)]
-        route = self.routes_df.loc[self.routes_df["route_id"] == route_id]
+        route = self.get_route(route_id)
 
         for index, row in route.iterrows():
             if index == route.index[-1]:
@@ -66,6 +59,45 @@ class RouteAnalyzer:
             times.append(total_t)
 
         return speeds, times
-    
-    def calculate_acceleration_between_coords(self, coord1 : tuple, coord2: tuple) -> float:
 
+    def detect_slopes(self, route_id: str) -> dict:
+
+        slope = False
+        slopes = defaultdict(dict)
+        counter = 0
+        route = self.get_route(route_id)
+        for index, row in route.iterrows():
+            if index == route.index[-1]:
+                break
+            points = route.iloc[index : index + 2]
+            point1 = points.iloc[0]
+            point2 = points.iloc[1]
+
+            elev1 = point1["elevation"]
+            elev2 = point2["elevation"]
+
+            if elev1 != elev2 and not slope:
+                slope = True
+                begin = point1["latitude"], point1["longitude"]
+                if elev2 > elev1:
+                    type = "uphill"
+                else:
+                    type = "downhill"
+
+            elif slope and elev1 == elev2:
+                slope = False
+                slope_end = point2["latitude"], point2["longitude"]
+                slopes[counter]["begin"] = begin
+                slopes[counter]["end"] = slope_end
+                slopes[counter]["type"] = type
+                counter += 1
+
+        return slopes
+
+    def get_route_profile(self, prof_dict: dict, prof_key: str = "type") -> list:
+
+        profile = []
+        for time_count in prof_dict:
+            profile.append(prof_dict[time_count][prof_key])
+
+        return profile
