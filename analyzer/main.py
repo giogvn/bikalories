@@ -9,4 +9,5 @@ if __name__ == "__main__":
     route_id = "Workout--2023-01-22--11-49-53.json"
     df = DataFrameCreator(json_dir).create_routes_dataframe()
     analyzer = RouteAnalyzer(df)
-    print(analyzer.detect_slopes(route_id))
+    route_count = analyzer.detect_slopes(route_id)
+    print(analyzer.get_route_profile(route_count))

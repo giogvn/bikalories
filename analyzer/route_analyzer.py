@@ -93,3 +93,11 @@ class RouteAnalyzer:
                 counter += 1
 
         return slopes
+
+    def get_route_profile(self, prof_dict: dict, prof_key: str = "type") -> list:
+
+        profile = []
+        for time_count in prof_dict:
+            profile.append(prof_dict[time_count][prof_key])
+
+        return profile
